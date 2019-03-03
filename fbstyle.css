@@ -1,0 +1,79 @@
+body{
+    background-color: #dfe3ee !important;
+}
+
+.head1{
+    background-color: 	#3b5998;
+    height: 10%;
+    position: relative;
+    z-index: 5;
+}
+.logo{
+    width: 400px;
+    padding-left: 200px;
+    position: absolute;
+    z-index: 20;
+    margin-top: 0.3%;
+
+}
+.image2{
+    width: 700px;
+    height: 400px;
+    padding-left: 90px;
+    margin-top: 1%;
+    opacity: 0.3;
+  
+}
+.pspace{
+    padding-left: 21%;
+}
+.loginArea{
+      padding-left: 65%;
+      padding-top: 4px;
+      padding-bottom: 2px;
+    font-family: verdana;
+    font-size: 13px;
+}
+.tab{
+    padding-left: 43%;
+    text-decoration-color: white;
+}
+#form1{
+    text-align: left;
+    padding-left: 65%;
+    padding-bottom: 4%;
+    margin-top: -450;
+}
+.tsize{
+font-size: 20px;
+text-align: left;
+padding-left: 20%;
+margin-top: 1%;
+font-family: verdana;
+font-size: 20px;
+color:#3b5998;
+}
+.foot{
+    padding-top: 1%;
+}
+#sp{
+    padding-left: 65%; 
+}
+
+.btn2{
+    width: 250px;
+    height:50px;
+    background-color: green;
+    border-radius: 10px;
+    text-decoration-color: white;
+}
+
+.textbox {
+    border-color: #bdc7d8;
+    border-radius: 5px;
+    margin: 0;
+    border: 1px solid #bdc7d8;
+}
+.lb{
+    color: white;
+}

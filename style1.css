@@ -1,0 +1,28 @@
+.container{
+    border: 2px;
+text-align: center;
+
+}
+
+.button{
+    background-color: rgb(182, 164, 3); /* Green */
+    border: none;
+    color: rgb(10, 10, 1);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    width: 20%;
+}
+
+.button1{
+    background-color:white;
+    border: 2px;
+    border-color: darkorange;
+    color: rgb(10, 10, 1);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    width: 20%;
+}
